@@ -1,6 +1,6 @@
 @echo off
 :: Set the specific path for Antigravity
-set "EXE_PATH=C:\Users\USERNAME\AppData\Local\Programs\Antigravity\Antigravity.exe"
+set "EXE_PATH=C:\Users\%USERNAME%\AppData\Local\Programs\Antigravity\Antigravity.exe"
 
 echo Adding Antigravity to Context Menu...
 
