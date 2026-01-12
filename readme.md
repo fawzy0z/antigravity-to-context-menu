@@ -6,8 +6,8 @@ Follow these steps to add the "Open with Antigravity" option:
   1. Create a new file on your desktop named AddAntigravity.bat.
   2. Open it with Notepad and paste the script provided in this repository (ensure the path matches your installation).
 ### 2. Verify the Path:
-  1. The script is currently configured for the USERNAME. If your Windows username is different, open the .bat file and change the following line:
-  2. set "EXE_PATH=C:\Users\USERNAME\AppData\Local\Programs\Antigravity\Antigravity.exe"
+  1. The script is currently configured for the %USERNAME% Dynamically get your Username.
+  2. set "EXE_PATH=C:\Users\%USERNAME%\AppData\Local\Programs\Antigravity\Antigravity.exe"
 ### 3. Run as Administrator:
   1. Right-click AddAntigravity.bat.
   2. Select Run as Administrator. This is required because the script modifies the Windows Registry (HKEY_CLASSES_ROOT).
