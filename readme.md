@@ -15,6 +15,10 @@ Follow these steps to add the "Open with Antigravity" option:
 * Once the command prompt says "Success!", press any key to close it.
 * Right-click any folder or file to see the Open with Antigravity option.
 
+<img width="255" height="193" alt="image" src="https://github.com/user-attachments/assets/f6104a35-32bb-421e-841a-f5a68171e30c" />
+
+
+
 ## 🛠️ Usage Notes for 2026
 * Windows 11 Users: By default, Windows 11 hides third-party context menu items. You may need to click "Show more options" at the bottom of the menu to see the Antigravity shortcut.
 * Icon Support: The script automatically pulls the official Antigravity icon from the .exe file to display next to the menu text.
